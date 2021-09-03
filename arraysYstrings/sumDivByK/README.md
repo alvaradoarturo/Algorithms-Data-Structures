@@ -1,0 +1,1 @@
+### Given an array ‘ARR’ and an integer ‘K’, your task is to find all the count of all sub-arrays whose sum is divisible by the given integer ‘K’. If there exists no subarray in the given sequence whose sum is divisible by ‘K’ then simply return ‘0’.
